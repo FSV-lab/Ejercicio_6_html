@@ -1,0 +1,13 @@
+*{
+    background: black;
+}
+img{
+    width: 300vw;
+    height: 300pt;
+    
+}
+#galeria{
+    display: flex;
+    flex-wrap: wrap;
+
+}
